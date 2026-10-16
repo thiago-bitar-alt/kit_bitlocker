@@ -1,0 +1,6 @@
+dissect.fve==4.6
+dissect.volume==3.18
+dissect.cstruct==4.7
+dissect.util>=3.22,<4
+pycryptodome==4.0.0
+numpy>=2.0,<3
